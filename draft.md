@@ -1,5 +1,8 @@
-- idea1
-- idea2
-- idea3
-- idea4
-- idea5
+## ideas
+- war plane sim 1.0
+- a craft game
+- a store
+- an edge
+- an idea
+
+
