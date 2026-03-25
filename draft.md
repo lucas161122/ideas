@@ -1,8 +1,10 @@
 ## ideas
 - war plane sim 1.0
-- a craft game
-- a store
-- an edge
-- an idea
+- a craft game(alpha)
+- a store(can buy something)
+- an edge(like microsoft edge)
+- a typing game
+
+
 
 
